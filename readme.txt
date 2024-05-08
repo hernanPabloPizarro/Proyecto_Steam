@@ -8,7 +8,8 @@
     API remoto (RENDER.COM)
     Tecnologías usadas
     Base de datos de STEAM
-    Dirección de la API    
+    Dirección de la API 
+    Video de API   
 
 **Introducción
 El proyecto simula que la plataforma Steam nos contrata para realizar un producto mínimo viable sobre un sistema remoto de recomendaciones de sus videos juegos.
@@ -65,4 +66,7 @@ Al entrar a esa dirección tenemos los 6 endpoint que corresponden a las 6 funci
   https://drive.google.com/drive/folders/1HqBG2-sUkz_R3h1dZU5F2uAzpRn7BSpj
 
 **Dirección de la API
-https://proyecto-individual1-zfim.onrender.com
+  https://proyecto-individual1-zfim.onrender.com
+
+**Video de API
+  https://youtu.be/jkkWMmpRfRc
