@@ -30,6 +30,8 @@ En el dataframe reviews se encuentra la columna reviews. La misma es una recopil
 1 para valores entre -0.33 y 0.33
 2 para valores superiores de 0.33
 
+La segunda parte de Machine learning se aplica a la función 6. Aquí lo que se busca es dar un modelo de recomendación usando la técnica de “Similitud del cosenos”. Lo que se busca es crear una base de datos sobre juegos. Los mismos contarán con valores estandarizados de precio, género y minutos jugados. Se buscó no tomar muchos parámetros para no emplear muchos recursos por parte del sistema. Se logró correr una función la cual por medio de un id de juego, se recomienda 5 ID de otros juegos.
+
 *  EDA
 El proceso de EDA en este proyecto se orienta a lo siguiente. Poder tomar la información necesaria de los dataframe logrados para poder ejecutar las seis funciones de consulta. Para ello se diseña un dataframe específico y se diseña la función pedida por cada una de las seis consignas.
 Las definiciones pedidas son:
